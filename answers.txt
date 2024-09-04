@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example and how it might help
+
+Answers: Data science can easily be applied in the medical field for researching diseases. Let's say you want to know what blood type is most susceptible alzheimers disease. You can take alzheimer patient information like age, blood type, and the stage of alzheimers they're at and input it into a database and graph that information to be able to see the trends present between age, blood type and alzheimer severity. Data science gives the ability to visually see the trends of any data you collect.
