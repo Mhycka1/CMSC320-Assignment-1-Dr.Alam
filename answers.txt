@@ -7,3 +7,14 @@ Answer: Git serves as a version control software that can allow you to version y
 Q2: What field could data science be applied to? Give an Example and how it might help
 
 Answer: Data science can easily be applied in the medical field for researching diseases. Let's say you want to know what blood type is most susceptible alzheimers disease. You can take alzheimer patient information like age, blood type, and the stage of alzheimers they're at and input it into a database and graph that information to be able to see the trends present between age, blood type and alzheimer severity. Data science gives the ability to visually see the trends of any data you collect.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the histories of the two branches into one branch, rebasing puts changes from one branch at the beginning of another, ultimatelty rewriting the history
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I want to get more comfortable with python and data visualization tools/libraries. I want to develop the intuition to know how datasets should be manipulated/changed to aid me in machine learning tasks
+
+
