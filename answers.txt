@@ -1,3 +1,9 @@
+
 Q1: Why might we consider using git?
 
 Answer: Git serves as a version control software that can allow you to version your software and create branches of your work, allowing for multiple people to work on something at the same time and merge their work. It's nice because it is compatible with pretty much any and every IDE and operating system, so you can use it in windows powershell, the mac terminal and every popular IDE
+
+
+Q2: What field could data science be applied to? Give an Example and how it might help
+
+Answer: Data science can easily be applied in the medical field for researching diseases. Let's say you want to know what blood type is most susceptible alzheimers disease. You can take alzheimer patient information like age, blood type, and the stage of alzheimers they're at and input it into a database and graph that information to be able to see the trends present between age, blood type and alzheimer severity. Data science gives the ability to visually see the trends of any data you collect.
